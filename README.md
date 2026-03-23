@@ -1,1 +1,1 @@
-predicts a number from 20 to 40 to x of value y
+sql.forum.blogger sql id password
